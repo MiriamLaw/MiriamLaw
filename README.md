@@ -6,7 +6,14 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriamlaw&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miriamlaw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
- 
+ Toolset
+CI/CD	
+Programming/Backend	 
+Frontend Dev	  
+Databases/Datastores	  
+IDEs	  
+Others/Misc	  
+
  ## Skills
 <div style="display: inline_block"><br>
   <img height="50" align="center" alt="Miriam-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
