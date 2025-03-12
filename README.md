@@ -1,6 +1,17 @@
 ## Hi, I am Miriam Law! 
 </br>
 
+Technical toolbox: Java | Spring Boot | Maven | SQL | JavaScript | Thymeleaf | JUnit | Git | Shell | Markdown
+
+As a Software Developer for Student Support at Coders Campus, I use the above technologies to develop internal tools, streamline operations, and optimize user experiences. My role combines coding full-stack features while also onboarding students, providing coding support, and generating data-driven reports.
+
+I’m expanding my skills with React, Next.js, Nest.js, Typescript, AWS, Docker, and Kubernetes.
+
+To see examples of my work visit my GitHub: https://github.com/MiriamLaw
+
+I am committed to the principles of tech justice and I aspire to harness my skills to create inclusive solutions that address real-world challenges and promote equity.
+
+With a background in analysis and administration, I bring a unique and transferable skill set into the tech sector. My collaborative nature, effective and mature communication skills, and unwaveringly positive attitude make me an invaluable teammate in dynamic and diverse work environments. I look forward to contributing to a team with my technical proficiencies and dedication to cultivating a positive, cooperative, and inclusive atmosphere.
  <div>
   <a href="https://github.com/miriamlaw">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriamlaw&layout=compact&langs_count=16&theme=dracula"/>
